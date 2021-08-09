@@ -4,7 +4,7 @@
 "linkedin": "TBD",
 "github": "WAMS24",
 "email": "grfoster24@gmail.com",
-"resume": "https://github.com/WAMS24/NPM-resume",
+"resume": "https://github.com/WAMS24/",
 "beginnerTechnologies": [
 "Javascript",
 "React",
