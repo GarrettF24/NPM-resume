@@ -4,8 +4,8 @@
   "linkedin": "TBD",
   "github": "WAMS24",
   "email": "grfoster24@gmail.com",
-  "resume": "TBD",
-  "proficientTechnologies": [
+  "resume": "https://git.generalassemb.ly/sei-nyc-chickadee/npm-resume",
+  "beginnerTechnologies": [
       "Javascript",
       "React",
       "Node",
