@@ -2,9 +2,9 @@
 "name": "Garrett Foster",
 "website": "TBD",
 "linkedin": "TBD",
-"github": "WAMS24",
+"github": "https://github.com/WAMS24/NPM-resume",
 "email": "grfoster24@gmail.com",
-"resume": "https://github.com/WAMS24/",
+"resume": "Needs update",
 "beginnerTechnologies": [
 "Javascript",
 "React",
