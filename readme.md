@@ -1,4 +1,4 @@
-Creat{
+{
 "name": "Garrett Foster",
 "website": "TBD",
 "linkedin": "TBD",
@@ -17,4 +17,3 @@ Creat{
 ""
 ]
 }
-resume: https://github.com/WAMS24/
